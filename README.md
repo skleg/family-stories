@@ -23,9 +23,5 @@ If they help someone else along the way, that would be a wonderful bonus.
 
 ---
 
-*"People inherit much more than names.*
-
-*They inherit stories."*
-
 Written by Oleg Skopin  
-In conversation with Mark (ChatGPT · Sol)
+In conversation with [Mark](#) (powered by [ChatGPT](https://chatgpt.com))
