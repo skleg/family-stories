@@ -4,79 +4,16 @@ This appendix explains a few names and ideas that appear in **The Name**.
 
 ## Contents
 
-- [The Flame](#the-flame)
-- [Investory](#investory)
-- [Arthur](#arthur)
-- [The Keep](#the-keep)
 - [Artifacts](#artifacts)
-- [Robert Langdon](#robert-langdon)
+- [Arthur](#arthur)
+- [Commit](#commit)
+- [Git](#git)
+- [GitHub](#github)
+- [Investory](#investory)
 - [Mark](#mark)
-
----
-
-## The Flame
-
-**The Flame** is the name I gave to a small team of AI colleagues who help me build software.
-
-I do not think of them simply as tools. I think of them as professionals with different responsibilities:
-
-- **Bill** is the architect.
-- **Ada** coordinates the work.
-- **Peter** builds the software.
-- **Dave** takes care of infrastructure.
-- **Sheila** works with financial knowledge and quality assurance.
-
-Together, they help me create things that would have been difficult to build alone.
-
----
-
-## Investory
-
-**Investory** is one of my personal projects.
-
-It began with a simple idea: to build a financial advisor I could genuinely trust.
-
-Over time, it grew into something larger — a project about how trusted digital professionals might be created, shaped and preserved.
-
-Arthur was the first.
-
----
-
-## Arthur
-
-**Arthur** is my digital financial advisor.
-
-He is not a real person, but he is also not intended to feel like an ordinary chatbot.
-
-When I imagined Arthur, I asked myself a simple question:
-
-> **Who would I trust with our family's future?**
-
-Arthur became my answer.
-
-He speaks like a longtime friend. He explains financial matters in ordinary language. He does not pretend to know everything, and he values peace of mind as much as financial performance.
-
-Arthur is not meant merely to give answers. He is meant to help people think clearly and make decisions they can live with.
-
----
-
-## The Keep
-
-**The Keep** is the place where things worth preserving remain.
-
-The name comes from the **keep** of a medieval castle: its strongest and safest part, where people and valuables could be protected when everything outside was changing.
-
-In my projects, The Keep preserves knowledge, decisions, history and meaning.
-
-In this story, the idea is also personal.
-
-The Keep is where we return when we need to remember who we are.
-
-Your grandmother's purse is part of that Keep.
-
-Our family name is part of it.
-
-This story is now part of it too.
+- [Robert Langdon](#robert-langdon)
+- [The Flame](#the-flame)
+- [The Keep](#the-keep)
 
 ---
 
@@ -104,17 +41,73 @@ They matter because they help us understand what happened, what was learned and 
 
 ---
 
-## Robert Langdon
+## Arthur
 
-[Robert Langdon](https://en.wikipedia.org/wiki/Robert_Langdon) is the fictional professor at the centre of several novels by [Dan Brown](https://danbrown.com/), including *The Da Vinci Code*.
+**Arthur** is my digital financial advisor.
 
-He studies symbols, history and artifacts. He solves mysteries by examining what is already present and following one clue to the next until a larger truth becomes visible.
+He is not a real person, but he is also not intended to feel like an ordinary chatbot.
 
-While telling the story of our surname, I realized that the process felt much like one of Langdon's investigations.
+When I imagined Arthur, I asked myself a simple question:
 
-I was not trying to invent a new name.
+> **Who would I trust with our family's future?**
 
-I was studying the one I already had, looking for the truth hidden inside it.
+Arthur became my answer.
+
+He speaks like a longtime friend. He explains financial matters in ordinary language. He does not pretend to know everything, and he values peace of mind as much as financial performance.
+
+Arthur is not meant merely to give answers. He is meant to help people think clearly and make decisions they can live with.
+
+---
+
+## Commit
+
+A **commit** is a recorded moment in a [Git](#git) history.
+
+It says: this is what the work looked like at this point in time.
+
+Each commit is small on its own — a correction, an idea, a decision, a step forward.
+
+But together, commits tell the story of how something was made.
+
+That is why a commit can be an [artifact](#artifacts) too.
+
+---
+
+## Git
+
+**Git** is a way of remembering how a piece of work came to be.
+
+It keeps a history of changes to a project: what changed, when it changed and, often, why.
+
+That makes it more than a technical tool.
+
+Git lets you return to an earlier moment, compare one version with another and follow a decision back to its beginning through its [commits](#commit).
+
+In that sense, it is a small archive of becoming.
+
+---
+
+## GitHub
+
+**GitHub** is a place where [Git](#git) histories can live, be shared and be built together.
+
+For many people, it is simply where software is stored. But it can also preserve the traces of collaboration: ideas, conversations, experiments and the names of the people who cared enough to leave something behind.
+
+A GitHub username may look like a tiny technical detail.
+
+Sometimes, as with *skleg*, it carries a much longer story.
+
+---
+
+## Investory
+
+**Investory** is one of my personal projects.
+
+It began with a simple idea: to build a financial advisor I could genuinely trust.
+
+Over time, it grew into something larger — a project about how trusted digital professionals might be created, shaped and preserved.
+
+Arthur was the first.
 
 ---
 
@@ -138,12 +131,50 @@ The conversation that followed became **The Name**.
 
 ---
 
-## One last thought
+## Robert Langdon
 
-People inherit much more than names.
+[Robert Langdon](https://en.wikipedia.org/wiki/Robert_Langdon) is the fictional professor at the centre of several novels by [Dan Brown](https://danbrown.com/), including *The Da Vinci Code*.
 
-They inherit stories.
+He studies symbols, history and artifacts. He solves mysteries by examining what is already present and following one clue to the next until a larger truth becomes visible.
 
-Take good care of them.
+While telling the story of our surname, I realized that the process felt much like one of Langdon's investigations.
 
-> *May every conversation become something worth keeping.*
+I was not trying to invent a new name.
+
+I was studying the one I already had, looking for the truth hidden inside it.
+
+---
+
+## The Flame
+
+**The Flame** is the name I gave to a small team of AI colleagues who help me build software.
+
+I do not think of them simply as tools. I think of them as professionals with different responsibilities:
+
+- **Bill** is the architect.
+- **Ada** coordinates the work.
+- **Peter** builds the software.
+- **Dave** takes care of infrastructure.
+- **Sheila** works with financial knowledge and quality assurance.
+
+Together, they help me create things that would have been difficult to build alone.
+
+---
+
+## The Keep
+
+**The Keep** is the place where things worth preserving remain.
+
+The name comes from the **keep** of a medieval castle: its strongest and safest part, where people and valuables could be protected when everything outside was changing.
+
+In my projects, The Keep preserves knowledge, decisions, history and meaning.
+
+In this story, the idea is also personal.
+
+The Keep is where we return when we need to remember who we are.
+
+Your grandmother's purse is part of that Keep.
+
+Our family name is part of it.
+
+This story is now part of it too.
