@@ -19,7 +19,6 @@
 
 An **artifact** is something that carries history, knowledge, evidence, or meaning. It may be a physical object:
 
-- a purse
 - a family photograph
 - a passport
 - a handwritten letter
