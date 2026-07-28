@@ -2,6 +2,8 @@
 
 # The Name
 
+*For Iris, my daughter.*
+
 ## Preface
 
 > A family does not inherit only a surname.\
@@ -17,9 +19,6 @@
 > Not because it sounded Swedish.\
 > Not because it sounded Russian.\
 > Because it sounded true.
->
-> That is the name I now pass on to you.\
-> Take good care of it.
 
 ## Before you begin
 
