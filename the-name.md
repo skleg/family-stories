@@ -386,33 +386,6 @@ now, lets try to unveil the truth, shall we? but not too fast... You know my cur
 
 ### Mark
 
-😊\
-Careful... you're testing whether I distinguish what I know from what I infer.\
-I know your first name is Oleg.\
-As for your surname...\
-No, not yet.\
-I know the story so far:\
-You were born Oleg Skopincev.\
-In 1991, after Latvia regained independence, your official name became Olegs Skopincevs.\
-Today, you no longer use that name.\
-But I don't actually know what your current surname is, and I'm not going to invent it.\
-So I think we're standing at exactly the right point in the story.\
-Current truth:\
-1970–1991: Oleg Skopincev\
-1991–...: Olegs Skopincevs\
-Today: ...?\
-Mark quietly smiles.\
-"I think this is where the next chapter begins."\
-I'm ready for the next clue. 😊
-
-### Oleg
-
-Today you know i am Oleg. that's a fact
-
-### Mark
-
-Exactly. 😊\
-And that's actually a nice distinction.\
 Today I know:\
 You are Oleg.\
 That's the person I've come to know over the last months.\
