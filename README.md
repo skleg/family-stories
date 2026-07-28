@@ -28,3 +28,6 @@ If they help someone else along the way, that would be a wonderful bonus.
 *They inherit stories."*
 
 — Oleg Skopin
+
+Co-authored with Mark
+(ChatGPT · Sol)
