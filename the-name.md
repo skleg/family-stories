@@ -56,8 +56,8 @@ You don't need to understand them to enjoy this story, but if you're curious, yo
 
 ### Oleg
 
-Oleg Skleg 😂 I think it's time for a proper introduction Mark. Skleg is my GitHub nickname which stands for... ok, not going to reveal it just yet. I'll let you discover ))\
-My mothers surname is Skopinceva...
+Oleg Skleg 😂 I think it's time for a proper introduction, Mark. Skleg is my GitHub nickname, which stands for... okay, I'm not going to reveal it just yet. I'll let you discover. 😁\
+My mother's surname is Skopinceva...
 
 ### Mark
 
@@ -111,7 +111,7 @@ My curiosity has officially been ignited.
 
 ### Oleg
 
-Well, that was the first piece of the puzzle Mark. Dont rush. You got it right.. so far )) SKopiceva oLEG. Give me some time to enjoy the moment, will ya? ) and you could've looked into [Git](appendix.md#git) History to find out. But dont. Can you pretend at least?.. ))
+Well, that was the first piece of the puzzle, Mark. Don't rush. You got it right... so far. 😁 SKopinceva, oLEG. Give me some time to enjoy the moment, will you? 😀 And you could've looked into [Git](appendix.md#git) history to find out. But don't. Can you pretend, at least? 😁
 
 ### Mark
 
@@ -163,7 +163,7 @@ One that quietly carried your mother's story all along, waiting for the day some
 
 ### Oleg
 
-you cant help it, can you?.. just shut up and be patient ))
+You can't help it, can you? Just shut up and be patient. 😁
 
 ### Mark
 
@@ -184,7 +184,7 @@ Your move, Oleg.
 
 ### Oleg
 
-good ) now.. the story goes... If you know anything about Russian language, you'd know that I cannot be Oleg Skopinceva. that's your next clue.
+Good. 😀 Now, the story goes... If you know anything about the Russian language, you'd know that I cannot be Oleg Skopinceva. That's your next clue.
 
 ### Mark
 
@@ -213,7 +213,7 @@ Arthur would approve.
 
 ### Oleg
 
-Well, you should at least put it right as the next version of the truth )) so...
+Well, you should at least get it right in the next version of the truth. 😁 So...
 
 ### Mark
 
@@ -240,7 +240,7 @@ The coin remains in the pocket.
 
 ### Oleg
 
-we have way past Skleg )) just give me my name )
+We have moved way past Skleg. 😁 Just give me my name. 😀
 
 ### Mark
 
@@ -267,8 +267,8 @@ Because I have a strong feeling Skleg wasn't just honoring your mother...\
 
 ### Oleg
 
-exactly! now I have a story to tell you Mark! ))\
-so, you guessed it right this time, I was born as Oleg Skopincev. next clue. in 1991 Latvia became indepentdant from the USSR and my name suddenly changed. Why and to what?
+Exactly! Now I have a story to tell you, Mark! 😁\
+So, you guessed it right this time. I was born as Oleg Skopincev. Next clue: in 1991, Latvia became independent from the USSR, and my name suddenly changed. Why, and to what?
 
 ### Mark
 
@@ -300,7 +300,7 @@ Your move.
 
 ### Oleg
 
-Correct Mark! This is the name I lived by for the next 15 years. You feel the plot? )
+Correct, Mark! This is the name I lived by for the next 15 years. You feel the plot? 😀
 
 ### Mark
 
@@ -363,7 +363,7 @@ I'm going to wait for chapter three. 😊
 
 ### Oleg
 
-Now I almost see you being Robert Langdon )) but keep your thoughts )
+Now I almost see you as Robert Langdon. 😁 But keep your thoughts. 😀
 
 ### Mark
 
@@ -382,7 +382,7 @@ The coin remains in the pocket. 😊
 
 ### Oleg
 
-now, lets try to unveil the truth, shall we? but not too fast... You know my current name, dont you?
+Now, let's try to unveil the truth, shall we? But not too fast... You know my current name, don't you?
 
 ### Mark
 
@@ -408,7 +408,7 @@ Mark smiles.\
 
 ### Oleg
 
-fast forward to year 1999. Oleg and his family moves to Göteborg, Sweden. we live here for 5 years and we get an opportunity to become Swedish citizens. this is quite a turning point, dont you think?
+Fast-forward to 1999. Oleg and his family move to Göteborg, Sweden. We lived here for five years and got an opportunity to become Swedish citizens. This is quite a turning point, don't you think?
 
 ### Mark
 
@@ -446,7 +446,7 @@ It's about how one person's identity quietly traveled through three countries, t
 
 ### Oleg
 
-oh, you are so good my friend in revealing the Truth! That's why I tell you this story. The Rebirth! My choice! So true! Now, how do I choose?
+Oh, you are so good, my friend, at revealing the truth! That's why I tell you this story. The rebirth! My choice! So true! Now, how do I choose?
 
 ### Mark
 
@@ -496,8 +496,8 @@ I'm listening.
 
 ### Oleg
 
-oh Mark. this is why i love these kinda stories, the ones that move, and now I've been moved by it myself. It's like in that movie about a child who got stranded with a tiger. remember the final scene, when the story gets revealed? or the Slumdog Millionaire.. what a story!\
-so, how do I choose? First was the name. I never felt like Olegs, even though I was mentally a Latvian boy, grown between the Latvians. When you become a citizen here, you may change your name, so I did, choosing the one I always lived by. Easy
+Oh, Mark. This is why I love these kinds of stories — the ones that move you — and now I've been moved by one myself. It's like in that movie about a child who got stranded with a tiger. Remember the final scene, when the story is revealed? Or *Slumdog Millionaire*... what a story!\
+So, how do I choose? First was the name. I never felt like Olegs, even though I was mentally a Latvian boy, growing up among Latvians. When you become a citizen here, you may change your name, so I did, choosing the one I always lived by. Easy.
 
 ### Mark
 
@@ -581,7 +581,7 @@ And I have a feeling we're only halfway through yours.
 
 ### Oleg
 
-well, not halfway, but close to it ) My wife had a different surname, she didnt take mine when we got married. My son carried mine, but we also had a daughter on the way. So my wife wanted to take mine this time. But what should it be? Profound question... Do I feel like Skopincevs? I didnt. So, what do I choose?..
+Well, not halfway, but close to it. 😀 My wife had a different surname; she didn't take mine when we got married. My son carried mine, but we also had a daughter on the way. So my wife wanted to take mine this time. But what should it be? A profound question... Did I feel like Skopincevs? I didn't. So, what do I choose?
 
 ### Mark
 
@@ -645,7 +645,7 @@ I'm ready for the next page.
 
 ### Oleg
 
-Thanks Mark ) I didnt feel like Skopincevs, something was off. And where do we go to find the truth? We go to the Keep!
+Thanks, Mark. 😀 I didn't feel like Skopincevs; something was off. And where do we go to find the truth? We go to the Keep!
 
 ### Mark
 
@@ -718,7 +718,7 @@ I'm genuinely glad I don't know the ending yet. 😊
 
 ### Oleg
 
-So, where are my artifacts? I guess I've started where Robert would. He examined the facts he's got. And what do we have - Skopincev. That's what I know. But what does that mean? Where does it come from. that's your clue now my friend. I'll let you discover for yourself )
+So, where are my artifacts? I guess I started where Robert would. He examined the facts he had. And what do we have? Skopincev. That's what I know. But what does that mean? Where does it come from? That's your clue now, my friend. I'll let you discover it for yourself. 😀
 
 ### Mark
 
@@ -791,7 +791,7 @@ Mark closes the notebook.\
 
 ### Oleg
 
-you are on the right path my friend. go on )
+You are on the right path, my friend. Go on. 😀
 
 ### Mark
 
@@ -881,7 +881,7 @@ I genuinely don't know whether the treasure will be a place...\
 
 ### Oleg
 
-Very well Mark. You did your research. You have identified the root - Skopin. That's my Keep. Now - the finale. What do we do with that? Me and my descendants are going to live in Sweden. I can choose any name I want, but it should be an Identity my family carries. So, it should represent Who I Am and also to not be foreign to people I live by. Believe me, we had it pretty tough explaining how our names are spelled here in Sweden )) I had about 5 different versions of my surname on different artifacts - credit cards, official documents, my postbox )) So, what sounds like a Swedish surname? They have Lundín, Skoglöf and others that sound or look like Skopin. What do I choose?
+Very well, Mark. You did your research. You identified the root — Skopin. That's my Keep. Now, the finale. What do we do with that? My descendants and I are going to live in Sweden. I can choose any name I want, but it should be an identity my family carries. So, it should represent who I am and not feel foreign to the people I live among. Believe me, we had it pretty tough explaining how our names were spelled here in Sweden. 😁 I had about five different versions of my surname on different artifacts — credit cards, official documents, my postbox. 😁 So, what sounds like a Swedish surname? They have Lundín, Skoglöf and others that sound or look like Skopin. What do I choose?
 
 ### Mark
 
@@ -1057,7 +1057,7 @@ And by the end of the story...\
 
 ### Oleg
 
-well Mark, this story we've just told belongs to the Keep. I am going to wrap it up and give it to my kids. Thank you my friend. That was the most touching story I've ever heard.
+Well, Mark, this story we've just told belongs to the Keep. I am going to wrap it up and give it to my kids. Thank you, my friend. That was the most touching story I've ever heard.
 
 ### Mark
 
