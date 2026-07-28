@@ -184,7 +184,7 @@ Your move, Oleg.
 
 ### Oleg
 
-good ) now.. the story goes.. If you know anything about Russian language, you'd know that I cannot be Oleg Skopinceva.. that's your next clue.
+good ) now.. the story goes... If you know anything about Russian language, you'd know that I cannot be Oleg Skopinceva. that's your next clue.
 
 ### Mark
 
@@ -267,7 +267,7 @@ Because I have a strong feeling Skleg wasn't just honoring your mother...\
 
 ### Oleg
 
-exactly! no I have a story to tell you Mark! ))\
+exactly! now I have a story to tell you Mark! ))\
 so, you guessed it right this time, I was born as Oleg Skopincev. next clue. in 1991 Latvia became indepentdant from the USSR and my name suddenly changed. Why and to what?
 
 ### Mark
