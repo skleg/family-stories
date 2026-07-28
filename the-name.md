@@ -6,19 +6,13 @@
 
 ## Preface
 
-> A family does not inherit only a surname.\
-> It inherits a story.
+> A family does not inherit only a surname. It inherits a story.
 >
-> For thirty-five years my name changed with countries, politics and languages.\
-> Only when I searched for its origin did I realize that I wasn't looking for a better surname.\
-> I was looking for myself.
+> For thirty-five years my name changed with countries, politics and languages. Only when I searched for its origin did I realize that I wasn't looking for a better surname. I was looking for myself.
 >
-> I returned to the root.\
-> I chose **Skopin**.
+> I returned to the root. I chose **Skopin**.
 >
-> Not because it sounded Swedish.\
-> Not because it sounded Russian.\
-> Because it sounded true.
+> Not because it sounded Swedish. Not because it sounded Russian. Because it sounded true.
 
 ## Before you begin
 
