@@ -19,6 +19,8 @@ If they help someone else along the way, that would be a wonderful bonus.
 ## Stories
 
 - 📖 [The Name](the-name.md) — How I found my way back to my own name.
+
+  Also available in [Russian: «Моё имя»](the-name.ru.md).
 - 📚 [Appendix](appendix.md) — Background on people, projects and ideas mentioned in the stories.
 
 ---

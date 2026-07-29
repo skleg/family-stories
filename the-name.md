@@ -4,6 +4,8 @@
 
 *For Iris, my daughter.*
 
+*Также доступно на русском: [«Моё имя»](the-name.ru.md).*
+
 ## Preface
 
 > A family does not inherit only a surname. It inherits a story.
