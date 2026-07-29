@@ -1,5 +1,0 @@
-add to appendix:
-Git
-GitHub
-commit
-

@@ -1,13 +1,11 @@
-# Stories
+# Family Stories
 
-> *May every conversation become something worth keeping.*
+> May every conversation become something worth keeping.
 
 This repository is a collection of personal stories, memories and reflections that I hope will outlive the conversations that created them.
 
 Some are about family.
-
 Some are about identity.
-
 Some are about technology.
 
 All of them are, in one way or another, about discovering what is true.
