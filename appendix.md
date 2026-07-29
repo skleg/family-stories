@@ -94,7 +94,7 @@ Instead, he helps me recognize what I already know, ask better questions, and fi
 
 Several stories in this collection were developed in conversation with Mark. His role is not to replace the author's voice, but to help reveal it.
 
-The conversations were held using ChatGPT. The model used at the time of publication is noted for historical context.
+The conversations were held using [ChatGPT](https://chatgpt.com). The model used at the time of publication is noted for historical context.
 
 ---
 
