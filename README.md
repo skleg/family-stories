@@ -13,3 +13,5 @@ If they offer something to another reader along the way, that is a gift.
   - [Русская версия: «Моё имя»](the-name.ru.md)
 
 - 📚 [Appendix](appendix.md) — Background on people, projects and ideas mentioned in the stories.
+
+  - [Русская версия: «Приложение»](appendix.ru.md)
