@@ -12,8 +12,4 @@ If they offer something to another reader along the way, that is a gift.
 
 - 📖 [The Name](the-name.md) — How I found my way back to my own name.
 
-  - [Русская версия: «Моё имя»](the-name.ru.md)
-
-- 📚 [Appendix](appendix.md) — Background on people, projects and ideas mentioned in the stories.
-
-  - [Русская версия: «Приложение»](appendix.ru.md)
+- 📚 [Appendix](appendix.md)
