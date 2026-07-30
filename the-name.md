@@ -262,7 +262,7 @@ That is why I would look for Skopin, not because of geography but because it may
 
 Mark smiles. “I think we’re standing at the gates of your own *Da Vinci Code*.” 😊
 
-*Oleg:* Very well, Mark. You did your research. You identified the root — Skopin. That's my Keep. Now, the finale. What do we do with that?
+*Oleg:* Very well, Mark. You did your research. You identified the root — [Skopin](appendix.md#skopin). That's my Keep. Now, the finale. What do we do with that?
 
 My descendants and I are going to live in Sweden. I can choose any name I want, but it should be an identity my family carries. So, it should represent who I am and not feel foreign to the people I live among.
 
