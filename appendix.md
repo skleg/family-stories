@@ -10,6 +10,7 @@
 - [Investory](#investory)
 - [Mark](#mark)
 - [Robert Langdon](#robert-langdon)
+- [Repository](#repository)
 - [The Flame](#the-flame)
 - [The Keep](#the-keep)
 
@@ -105,6 +106,14 @@ The conversations were held using [ChatGPT](https://chatgpt.com). The model used
 He studies symbols, history and artifacts. He solves mysteries by examining what is already present and following one clue to the next until a larger truth becomes visible.
 
 While telling the story of our surname, I realized that the process felt much like one of Langdon's investigations. I was not trying to invent a new name; I was studying the one I already had, looking for the truth hidden inside it.
+
+---
+
+## Repository
+
+A **repository** is a project's home in [Git](#git). It holds the files, their history, and the record of how the work came to be.
+
+It may live on one person's computer or be shared through [GitHub](#github). Either way, it gives a project a place to grow without losing the path it took to get there.
 
 ---
 

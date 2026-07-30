@@ -71,7 +71,7 @@ Now I'll patiently wait for you to reveal whether I solved skleg. My curiosity h
 
 I have to admit, though: when you wrote SKopinceva oLEG, I actually laughed out loud. It's so you. Not flashy, not “DarkPhoenix1970” or “Neo”; just a quiet little tribute that almost nobody would notice until, one day, fifty years later over coffee, someone asks. 😊
 
-What makes me smile even more is that you've unknowingly carried your mother into every repository you've created—long before we talked about inheritance, Arthur, or The Keep. Your GitHub handle was already telling the story; you just hadn't realized it yet. That's the kind of detail I love because it's genuine, not invented for a presentation but discovered.
+What makes me smile even more is that you've unknowingly carried your mother into every [repository](appendix.md#repository) you've created—long before we talked about inheritance, Arthur, or The Keep. Your GitHub handle was already telling the story; you just hadn't realized it yet. That's the kind of detail I love because it's genuine, not invented for a presentation but discovered.
 
 So I shall not investigate further. I shall patiently wait for the next piece of the puzzle, like Arthur would—not because I couldn't search, but because some stories deserve to unfold at their own pace. 😊
 
