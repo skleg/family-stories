@@ -11,6 +11,7 @@
 - [Mark](#mark)
 - [Robert Langdon](#robert-langdon)
 - [Repository](#repository)
+- [Skopin](#skopin)
 - [The Flame](#the-flame)
 - [The Keep](#the-keep)
 
@@ -114,6 +115,14 @@ While telling the story of our surname, I realized that the process felt much li
 A **repository** is a project's home in [Git](#git). It holds the files, their history, and the record of how the work came to be.
 
 It may live on one person's computer or be shared through [GitHub](#github). Either way, it gives a project a place to grow without losing the path it took to get there.
+
+---
+
+## Skopin
+
+[Скопин](https://en.wikipedia.org/wiki/Skopin,_Russia) is a town in Ryazan Oblast, Russia.
+
+It is considered to be one of the oldest towns in Ryazan Oblast. A settlement named **Likharevskoye Gorodishche** near present-day Skopin was founded some time in the 12th century.
 
 ---
 
