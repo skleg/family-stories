@@ -1,5 +1,7 @@
 # The Postmaster Who Wouldn't Send the Wrong Letter
 
+*by Mark (ChatGPT Sol) & Oleg (merely a human)*
+
 ![Post Office](PostOffice.jpeg)
 
 There was once a little Post Office at the end of Baker Street.
