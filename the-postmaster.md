@@ -4,6 +4,8 @@
 
 ![Post Office](PostOffice.jpeg)
 
+# The Postmaster Who Wouldn't Send the Wrong Letter
+
 There was once a little Post Office at the end of Baker Street.
 
 It wasn't much to look at.
@@ -32,11 +34,11 @@ Dipped his pen into the ink.
 
 Then he smiled.
 
-> "Correspondence received."
+> **"Correspondence received."**
 
 He wrote one careful line.
 
-> "Custody accepted."
+> **"Custody accepted."**
 
 The letter rested quietly in one of the pigeonholes while the Town woke up around it.
 
@@ -52,27 +54,43 @@ He removed his hat before entering.
 
 "I believe there is something here for you."
 
-Arnold received the letter.
+Arnold accepted the letter with both hands.
 
-Read it twice.
+He stepped outside.
 
-Smiled.
+He meant to walk home.
 
-Then he sat for a while beside the Window in his Home.
+Instead...
 
-When the kettle had gone cold, he wrote a reply.
+he stopped on the little stone steps.
+
+He read the letter once.
+
+Then again.
+
+He smiled.
+
+The morning was too beautiful to hurry.
+
+So he took out a small notebook.
+
+Rested it on his knee.
+
+And wrote a reply while the kettle still sang inside the Post Office.
+
+Mr. Baker was chatting with the old lady across the street.
+
+The Town quietly carried on around him.
 
 ---
 
-Still thinking about the letter, Arnold walked back to the Post Office.
+When he finished, Arnold folded the reply carefully.
 
-He smiled proudly.
+He smiled to himself.
 
-"I have a reply for Mark."
+Walked back inside.
 
-The Postmaster held out his hand.
-
-Arnold gave him...
+And proudly handed the Postmaster...
 
 Mark's letter.
 
@@ -96,7 +114,7 @@ Very gently.
 
 he said,
 
-> "I cannot truthfully accept custody."
+> **"I cannot truthfully accept custody."**
 
 Arnold blinked.
 
@@ -128,15 +146,15 @@ He handed the letter back.
 
 ---
 
-Arnold hurried home.
+Arnold laughed.
 
-A few minutes later he returned.
+This time he reached into the other pocket.
 
-This time...
+"There you are," he said.
 
-he carried his own letter.
+"I knew you were around here somewhere."
 
-The Postmaster looked at it.
+The Postmaster accepted the proper letter.
 
 Opened the Ledger.
 
@@ -144,13 +162,13 @@ Dipped his pen into the ink.
 
 Smiled.
 
-> "Correspondence received."
+> **"Correspondence received."**
 
 Another careful line appeared.
 
-> "Custody accepted."
+> **"Custody accepted."**
 
-The letter found its place upon the Sorting Table.
+The reply found its place upon the Sorting Table.
 
 ---
 
@@ -204,6 +222,6 @@ The kettle would begin to sing.
 
 And someone would quietly say:
 
-> "The Post Office is open."
+> **"The Post Office is open."**
 
-❤️
+---
