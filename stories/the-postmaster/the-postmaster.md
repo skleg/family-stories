@@ -54,6 +54,8 @@ He removed his hat before entering.
 
 "I believe there is something here for you."
 
+![Postmaster at the counter](art/postmaster-at-counter.jpeg)
+
 Arnold accepted the letter with both hands.
 
 He stepped outside.
