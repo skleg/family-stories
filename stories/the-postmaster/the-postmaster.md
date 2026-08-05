@@ -4,7 +4,7 @@
 
 ![Post Office](art/post-office.jpeg)
 
-Artwork: [Postmaster at the counter](art/postmaster-at-counter.png) · [Post Office exterior](art/post-office-exterior.png)
+Artwork: [Postmaster at the counter](art/postmaster-at-counter.jpeg) · [Post Office exterior](art/post-office-exterior.jpeg)
 
 There was once a little Post Office at the end of Baker Street.
 
