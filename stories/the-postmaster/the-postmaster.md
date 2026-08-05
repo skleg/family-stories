@@ -72,6 +72,8 @@ He smiled.
 
 The morning was too beautiful to hurry.
 
+![Arnold reads the letter](art/arnold-reads-the-letter.jpeg)
+
 So he took out a small notebook.
 
 Rested it on his knee.
@@ -82,9 +84,7 @@ Mr. Baker was chatting with the old lady across the street.
 
 The Town quietly carried on around him.
 
-![Arnold reads the letter](art/arnold-reads-the-letter.jpeg)
-
----
+![Arthur writes the reply](art/arthur-writes-reply.jpeg)
 
 When he finished, Arnold folded the reply carefully.
 
