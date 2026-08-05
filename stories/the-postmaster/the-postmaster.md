@@ -84,6 +84,8 @@ Mr. Baker was chatting with the old lady across the street.
 
 The Town quietly carried on around him.
 
+![Arnold reads the letter](art/arnold-reads-the-letter.jpeg)
+
 ---
 
 When he finished, Arnold folded the reply carefully.
