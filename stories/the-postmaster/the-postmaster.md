@@ -74,17 +74,29 @@ The morning was too beautiful to hurry.
 
 ![Arnold reads the letter](art/arnold-reads-the-letter.jpeg)
 
+He folded the letter carefully.
+
+For a little while he simply watched the morning.
+
+The chimney breathed softly.
+
+Somewhere in the Town, a church bell marked the hour.
+
+Nothing seemed in a hurry.
+
+Neither was Arnold.
+
 So he took out a small notebook.
 
 Rested it on his knee.
 
 And wrote a reply while the kettle still sang inside the Post Office.
 
-Mr. Baker was chatting with the old lady across the street.
+![Arthur writes the reply](art/arthur-writes-reply.jpeg)
+
+Farther up Baker Street, a barefoot boy chased a wooden hoop over the cobblestones.
 
 The Town quietly carried on around him.
-
-![Arthur writes the reply](art/arthur-writes-reply.jpeg)
 
 When he finished, Arnold folded the reply carefully.
 
