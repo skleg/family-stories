@@ -4,7 +4,7 @@
 
 ![Post Office](art/post-office.jpeg)
 
-Artwork: [Postmaster at the counter](art/postmaster-at-counter.jpeg) · [Post Office exterior](art/post-office-exterior.jpeg)
+Artwork: [Postmaster issues the letter](art/postmaster-issues-the-letter.jpeg) · [Post Office exterior](art/post-office-exterior.jpeg)
 
 There was once a little Post Office at the end of Baker Street.
 
@@ -54,7 +54,7 @@ He removed his hat before entering.
 
 "I believe there is something here for you."
 
-![Postmaster at the counter](art/postmaster-at-counter.jpeg)
+![Postmaster issues the letter](art/postmaster-issues-the-letter.jpeg)
 
 Arnold accepted the letter with both hands.
 
