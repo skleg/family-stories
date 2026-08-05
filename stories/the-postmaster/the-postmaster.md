@@ -4,7 +4,7 @@
 
 ![Post Office](art/post-office.jpeg)
 
-Artwork: [Postmaster issues the letter](art/postmaster-issues-the-letter.jpeg) · [Post Office exterior](art/post-office-exterior.jpeg)
+Artwork: [Postmaster issues the letter](art/postmaster-issues-the-letter.jpeg) · [Arnold reads the letter](art/arnold-reads-the-letter.jpeg)
 
 There was once a little Post Office at the end of Baker Street.
 
