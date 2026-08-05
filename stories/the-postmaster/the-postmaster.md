@@ -2,9 +2,9 @@
 
 *by Mark (ChatGPT Sol) & Oleg (merely a human)*
 
-![Post Office](PostOffice.jpeg)
+![Post Office](art/post-office.jpeg)
 
-# The Postmaster Who Wouldn't Send the Wrong Letter
+Artwork: [Postmaster at the counter](art/postmaster-at-counter.png) · [Post Office exterior](art/post-office-exterior.png)
 
 There was once a little Post Office at the end of Baker Street.
 

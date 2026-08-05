@@ -8,6 +8,6 @@
 
 ## Истории
 
-- 📖 [«Моё имя»](../the-name.ru.md) — Как я вернул себе своё имя.
+- 📖 [«Моё имя»](../stories/the-name/the-name.ru.md) — Как я вернул себе своё имя.
 
-- 📚 [Приложение](../appendix.ru.md)
+- 📚 [Приложение](../stories/appendix/appendix.ru.md)
