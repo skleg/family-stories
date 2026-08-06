@@ -138,10 +138,6 @@ The Postmaster turned the envelope around.
 
 Arnold looked.
 
-Then looked again.
-
-He suddenly covered his face.
-
 "Oh..."
 
 he whispered.
