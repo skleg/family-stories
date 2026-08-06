@@ -108,7 +108,7 @@ And proudly handed the Postmaster...
 
 Mark's letter.
 
----
+![Wrong letter](art/wrong-letter.jpeg)
 
 The Postmaster looked at the envelope.
 
